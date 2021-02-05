@@ -19,17 +19,17 @@ namespace CSharp_Game
                 Console.Write("Guess a number inbetween 0 and 100: ");
                 string s = Console.ReadLine();
                 int num = int.Parse(s);
-                if(num > winNum)
+                if (num > winNum)
                 {
                     Console.WriteLine("Too high! The number is lower.");
                 }
-                else if(num < winNum)
+                else if (num < winNum)
                 {
                     Console.WriteLine("Too low! The number is higher.");
                 }
-                else if(num == winNum)
+                else if (num == winNum)
                 {
-                    Console.WriteLine("You guessed right! Well done!");
+                    Console.WriteLine("That's the number! Yay!");
                     win = true;
                 }
                 attempts++;

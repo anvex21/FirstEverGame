@@ -1,0 +1,6 @@
+E:\Изтеглени\Alkin\School Work\Информатика\Задачи\CSharp Game\CSharp Game\bin\Debug\CSharp Game.exe.config
+E:\Изтеглени\Alkin\School Work\Информатика\Задачи\CSharp Game\CSharp Game\bin\Debug\CSharp Game.exe
+E:\Изтеглени\Alkin\School Work\Информатика\Задачи\CSharp Game\CSharp Game\bin\Debug\CSharp Game.pdb
+E:\Изтеглени\Alkin\School Work\Информатика\Задачи\CSharp Game\CSharp Game\obj\Debug\CSharp Game.csprojAssemblyReference.cache
+E:\Изтеглени\Alkin\School Work\Информатика\Задачи\CSharp Game\CSharp Game\obj\Debug\CSharp Game.exe
+E:\Изтеглени\Alkin\School Work\Информатика\Задачи\CSharp Game\CSharp Game\obj\Debug\CSharp Game.pdb
